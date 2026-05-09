@@ -1,4 +1,4 @@
-[gallery_exhibitions.html](https://github.com/user-attachments/files/27549754/gallery_exhibitions.html)
+
 <!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
